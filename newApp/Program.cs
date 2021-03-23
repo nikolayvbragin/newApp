@@ -8,7 +8,7 @@ namespace MyFirstApp
         {
             Console.WriteLine("Введите Ваше имя:");
             string s = Console.ReadLine();
-            Console.WriteLine("Введено:" + s);
+            Console.WriteLine("Введено имя:" + s);
             Console.WriteLine("Нажмите любую клавишу для выхода");
             Console.Read();
             Console.Clear();
